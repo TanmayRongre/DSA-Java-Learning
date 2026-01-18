@@ -16,4 +16,4 @@ This repository contains my code and notes while learning Data Structures & Algo
 - [ ] **Data Structures:** Linked Lists, Stacks, Queues, Trees, Graphs
 
 ---
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/tanmay-rongre/)*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/tanmay-rongre-95325a365/)*
