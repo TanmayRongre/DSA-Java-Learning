@@ -1,17 +1,19 @@
-# Java DSA Bootcamp 🚀
+# DSA in Java 🚀
 
-This repository documents my journey mastering **Data Structures & Algorithms** using Java. I am following the comprehensive roadmap by Kunal Kushwaha.
+This repository contains my code and notes while learning Data Structures & Algorithms.
+**Focus:** Java, Logic Building, and Efficient Coding.
 
-## 🎯 Goals
-- [ ] Master Java Core (Syntax, OOPs, Collections)
-- [ ] Solve 200+ LeetCode problems
-- [ ] Understand internal working of Data Structures (Stack, Heap, HashMap)
+## 📚 Resources
+* **Course:** [Kunal Kushwaha Java Bootcamp](https://www.youtube.com/c/KunalKushwaha)
+* **Language:** Java 21
 
-## 📅 Daily Progress
-| Day | Topic | Status |
-| :--- | :--- | :--- |
-| **Day 0** | Environment Setup (IntelliJ + Git) | ✅ Completed |
-| **Day 1** | Introduction to Programming | *Pending* |
+## 🛠️ Topics Roadmap
+- [ ] **Core Java:** Syntax, Loops, Methods
+- [ ] **OOPs:** Classes, Inheritance, Polymorphism
+- [ ] **Arrays & ArrayLists**
+- [ ] **Searching & Sorting:** Binary Search, Bubble/Merge/Quick Sort
+- [ ] **Recursion & Backtracking**
+- [ ] **Data Structures:** Linked Lists, Stacks, Queues, Trees, Graphs
 
 ---
-*Created by [Tanmay Rongre](https://linkedin.com/in/tanmay-rongre)*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/tanmay-rongre/)*
